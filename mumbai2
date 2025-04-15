@@ -1,0 +1,13 @@
+Here are a few of the commands included in the cheatsheet:
+
+git clone: used to create a local copy of a remote repository
+
+git branch: used to create, list, and delete branches
+
+git checkout: used to switch between branches
+
+git add: used to stage changes for commit
+
+git commit: used to save changes to the local repository
+
+git push: used to upload local commits to a remote repository 
